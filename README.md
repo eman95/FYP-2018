@@ -3,9 +3,11 @@ Final Year Project 2018
 
 This is my Final Year Project in UPM (2018)
 
-The Project is called Carbon Footprint Application (CFA)For Household Utility Users
+The Project is called Carbon Footprint Application (CFA) For Household Utility Users
 
-Project Overview
+
+**Project Overview**
+
 The purpose of the Carbon Footprint Application is to increase the
 awareness of total greenhouse emissions caused directly or indirectly by an
 individual. Carbon footprint accounts for all six of the greenhouse gas
