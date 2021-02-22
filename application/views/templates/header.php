@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>CFA</title>
+	<title>Carbon Footprint Application</title>
 	<link rel="stylesheet" type="text/css" href="https://bootswatch.com/3/darkly/bootstrap.min.css">
 </head>
 <body>
